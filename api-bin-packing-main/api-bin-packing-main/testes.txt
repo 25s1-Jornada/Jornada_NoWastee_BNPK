@@ -1,0 +1,1 @@
+precisa do sqlalchemy, dbcode, instalar dependências, e arrumar caminho, a tabela monta tranquilamente, ajustei alguns erros em alguns arquivos.
